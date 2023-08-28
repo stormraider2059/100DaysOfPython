@@ -1,0 +1,1 @@
+The files in this directory were renamed in an ascending order from 1,2,3...n where n is the number of files in this directory using python program in clearClutter.py
