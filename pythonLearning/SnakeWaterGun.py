@@ -1,5 +1,5 @@
 import random
-print("****************** Welcome to Snak, Water, Gun Game ******************")
+print("****************** Welcome to Snake, Water, Gun Game ******************")
 print("Rules of this game are simple: \n1. Snake beats Water \n2. Water beats Gun \n3. Gun beats Snake \n4. If both the players choose the same option, then the game is a tie/\n")
 GameOptions=["Snake","Water","Gun"]
 CompChoice=random.choice(GameOptions)
